@@ -1,0 +1,50 @@
+.button-style {
+    display: inline-block;
+    padding: 8px 12px;
+    margin-right: 10px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.modal-label {
+    color: #3C91E6;
+}
+
+.button-style:hover {
+    background-color: #ddd;
+}
+
+.edit-button, .show-button ,.data-button{
+    display: inline-block;
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.edit-button {
+    color: #0b0b0b; /* Grey background for edit button */
+}
+
+.show-button {
+    color: #0b0b0b; /* Green background for show button */
+}
+
+.edit-button:hover, .show-button:hover {
+    background-color: #ddd; /* Lighter background color on hover */
+}
+
+.thumb1 { 
+     /* 50% 50% centers image in div */
+    width: 50px;
+    height: 50px;
+  }
+
+  .upload-icon, .fa-download {
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: 20px;
+    color: #007bff;
+}

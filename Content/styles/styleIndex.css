@@ -1,0 +1,201 @@
+.table-data canvas {
+    max-width: 400px; /* Adjust the maximum width as needed */
+    max-height: 200px; /* Adjust the maximum height as needed */
+    width: 200%; /* Ensures the canvas fills its container horizontally */
+    height: auto; /* Allows the canvas to maintain its aspect ratio */
+}
+
+.canvas-container {
+	width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#gis-logo-container {
+    position: relative;
+    overflow: hidden;
+    width: 100px; /* Adjust the width and height as needed */
+    height: 100px;
+}
+
+
+
+
+@keyframes animateGisLogo {
+    from {
+        transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); /* Initial rotation */
+    }
+    to {
+        transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg); /* Final rotation */
+    }
+}
+
+.additional-graph {
+    position: relative; /* Ensure relative positioning for the container */
+    width: 100%; /* Ensure the container fills its parent */
+    height: 100%; /* Ensure the container fills its parent */
+}
+
+#gis-logo {
+    width: 100%; /* Make the image fill its parent container */
+    height: 100%; /* Make the image fill its parent container */
+}
+
+.animated-element {
+    display: inline-block;
+    font-family: Arial, sans-serif; /* Choose an appropriate font */
+    font-size: 36px; /* Adjust font size */
+    color: #333; /* Text color */
+    animation: slideIn 2s ease infinite; /* Apply the animation */
+}
+
+.earth-icon,
+.chart-icon {
+    display: inline-block;
+    font-size: 126px; /* Adjust icon size */
+}
+
+.chart-icon {
+    margin-left: 10px; /* Add margin between the icons and text */
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+
+
+#gis-data-text {
+    display: inline-block;
+    font-family: Arial, sans-serif; /* Choose an appropriate font */
+    font-size: 24px; /* Adjust font size as needed */
+    color: #333; /* Text color */
+    animation: slideIn 2s ease infinite; /* Animate the text */
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.canvas-container {
+    position: relative; /* Position the image containers */
+}
+
+
+
+@keyframes fadeInTop {
+    0% {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#other-image-container {
+    animation: fadeInRight 2s ease; /* Animate other image from right */
+}
+
+
+
+
+.order {
+    position: relative; /* Ensure positioning context for absolute positioning */
+}
+
+.additional-graph {
+    position: relative; /* Ensure positioning context for absolute positioning */
+}
+
+.canvas-container {
+    position: relative; /* Ensure positioning context for absolute positioning */
+    width: 100%; /* Set width to match parent */
+    height: 100%; /* Set height to match parent */
+}
+
+.animated-element {
+    position: absolute; /* Position the image container relative to the canvas container */
+    top: 0; /* Align to the top of the canvas container */
+    left: 0; /* Align to the left of the canvas container */
+    width: 100%; /* Set width to match canvas container */
+    height: 100%; /* Set height to match canvas container */
+}
+
+.animated-element img {
+    width: 100%; /* Ensure the image fills the container */
+    height: 100%; /* Ensure the image fills the container */
+    object-fit: cover; /* Maintain aspect ratio while covering the container */
+}
+
+.animated-element {
+    display: inline-block;
+    font-family: Arial, sans-serif; /* Choose an appropriate font */
+    font-size: 36px; /* Adjust font size */
+    color: #333; /* Text color */
+    animation: slideIn 2s ease; /* Apply the animation without repeating */
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.logo-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.notification-dropdown {
+    display: none;
+    position: absolute;
+    top: 40px; /* Adjust to place it directly below the bell icon */
+    right: 0;
+    width: 250px; /* Set a width for the dropdown */
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 10px;
+    z-index: 1000; /* Ensure it appears above other elements */
+}
+
+/* Style for each notification item as a bordered box */
+.notification-item {
+    padding: 10px;
+    margin-bottom: 10px; /* Space between each notification */
+    border: 1px solid black; /* Black border around each item */
+    border-radius: 5px; /* Optional: Rounded corners */
+    background-color: #f9f9f9; /* Optional: Light background for contrast */
+}
+
+    .notification-item:last-child {
+        margin-bottom: 0;
+    }
+
+
+

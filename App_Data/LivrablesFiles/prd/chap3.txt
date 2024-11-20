@@ -1,0 +1,57 @@
+chapitre3:
+1.Typologie des entites ponctuelle:
+simple compose comlexe ,reel et abstraite fixe et mpbile
+
+
+les 3 indicateurs:moyen est barycentre
+ecart est equivalent de distance standard
+elipse de deviation est l’équivalent du
+coefficient de l’asymétrie (anisotropie )
+
+pag11:pas compris
+superficie de polygone page 16
+que signifie les attributs  les attributs n’interviennent pas:a sectorisation ou la
+tessélation
+
+Les polygones de theissen constituent la façon la plus courante de transformer des
+entités ponctuelles en unités zonales si les attributs n’interviennent pour pondérer
+la tessellation
+
+Pour caractériser la répartition spatiale d’un
+phénomène ou d’un ensemble d’objet, ou
+d’activités, il y a trois approches :
+3- Approches méthodologiques : Trois
+* Analyse par carroyage (Quadras) : basée sur la
+fréquence et la densité des nuages de points
+* Analyse du voisinage : basée sur la distance
+* Analyse de contiguïté : basée sur la topologie du
+voisinage
+
+χ
+2
+Ob = ∑i
+(Fi – Fm)
+2
+* 1/Fm
+
+avec Fm = ∑i
+(Fi )/n = M/n
+
+Contraintes des analyses des formes des distributions :
+* Problème d’échelle :
+• 
+* Problème d’homogénéité de l’espace : l’espace est supposé
+
+* Problème des limites du territoire: il devrait s’étendre
+indéfiniment, si non les frontières réduisent les densités et les chances
+de voisinage et de contiguïté (il faut faire des corrections de bord)
+
+
+L’interpolation permet de reconstituer l'ensemble de la distribution
+d'un phénomène continu dont les valeurs connues en certains points
+de l'espace (ex: température, précipitation . Points : station
+météorologiques)
+ L’interpolation est une technique cartographique commune, basée
+sur les SIG, pour les données quantitatives. 
+
+Surfaces de tendances

@@ -1,0 +1,43 @@
+﻿@model CentralisationV0.Models.Entities.LoginViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire de Connexion</title>
+    <link rel="stylesheet" href="~/Content/styles/styleConnexion.css">
+</head>
+<body>
+
+    <div class="container">
+        @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @class = "loginForm" }))
+        {
+@Html.AntiForgeryToken()
+                <div class="logo-nav">
+                    <a href="Login.html" class="brand">
+                        <img src="~/Content/img/logo-geomatic.png" style="width: 15%;" />
+                    </a>
+                </div>
+                                <h2 style="text-align: center;">Connexion</h2>
+                                                <div class="form-group">
+                                                    @Html.LabelFor(m => m.Email, "Adresse E-mail:")
+                                                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @id = "email" })
+                                                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                                                </div>
+                                                                <div class="form-group">
+                                                                    @Html.LabelFor(m => m.Password, "Mot de Passe:")
+                                                                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", @id = "password" })
+                                                                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                                                                </div>
+                                                                                <button type="submit" id="loginBtn">Se Connecter</button>}
+    </div>
+
+</body>
+</html>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Content/Scripts/script.js"></script>
+    <script src="~/Content/Scripts/scriptConnexion.js"></script>
+}

@@ -1,0 +1,75 @@
+1.
+2.les contraintes de choix de la metode impose par:
+proplematique etudie :fondamentale ou applique
+la nature statistuqe de donnee :semi simple ,ou multi varie
+la structuraction spatial:aleatoire structure
+echelle de la zone :les donnees peut etre espace dans un echelle et regroupe dns un autre
+les sources de donnees:est ce qu'il s'agit des donnes ponctuelle ou bien donnee agrgees
+
+
+
+Methodologie de l'etude de la distribution d'un semi de points :Caractériser la distribution observée à partir des données existantes :
+(à partir des données réelles)
+* Déterminer parmi les modèles théoriques la distribution
+théorique qui s’ajuste le mieux (Poisson, Binomiale….) (ne pas fixer a
+priori la forme du modèle théorique correspondant à distribution
+observée )
+*Comparer ou Mesurer l’écart entre la distribution observée et une
+distribution théorique choisie (calcul de résidus entre les deux
+distribution)
+* Tester la signification de ces écarts par des tests statistiques; χ
+2 ,
+student, …
+
+
+les objectifs de l'analyse spatial:Mettre en évidence les formes d’organisation spatiale :
+Comment les unités géographiques (IG) sont elles disposées
+dans l’espace? Espace est –il organisé??
+2- Caractériser les processus de spatialisation qui sont à
+l’origine de ces structures : Pourquoi les unités
+géographiques sont elles organisées de telle manière?
+3- Cerner les dynamiques des systèmes spatiaux (évolution -
+prévention) : comment les systèmes vont-ils évolués dans le
+temps (évolution spatio- temporelle)
+
+l'espace ne peut pas etre homoggene dans toutes les directions
+
+exemple de l'etude global:Analyse synthétique de l’occupation réelle de
+l’espace dans
+
+
+Objectifs :
+-Décrit la structure de l information géographique
+- Quantifié l’influence de la localisation (l’espace) sur la répartition
+des objets (la nature de la réalité étudiée)
+- Propose des explications de l’état actuel de l’information
+geographique ( des objets ou des unités géographique)
+- Prévision de l’évolution probable des objets (ou des systèmes
+spatiaux)
+- Explication de la localisation et de la distribution des activités
+Humaines
+
+
+
+1- Mettre en évidence les formes d’organisation spatiale :
+Comment les unités géographiques (IG) sont elles disposées
+dans l’espace? Espace est –il organisé??
+2- Caractériser les processus de spatialisation qui sont à
+l’origine de ces structures : Pourquoi les unités
+géographiques sont elles organisées de telle manière?
+3- Cerner les dynamiques des systèmes spatiaux (évolution -
+prévention) : comment les systèmes vont-ils évolués dans le
+temps (évolution spatio- temporelle)
+
+
+le barycentre d’un nuage de points pondéré (par un caractère :
+attribut ) est calculé le plus souvent à différentes périodes et on
+représente ensuite son déplacement sur la carte
+(bon indicateur des tendances spatiales : évolution spatiale)
+
+Le calcul du barycentre sur plusieurs années peut être une méthode utile dans divers domaines pour analyser les changements de distribution spatiale au fil du temps.
+Étude des migrations : Lors de l'étude des migrations humaines, le barycentre peut indiquer la direction générale des mouvements de population au fil du temps.
+
+
+
+

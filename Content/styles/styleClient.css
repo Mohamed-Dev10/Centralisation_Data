@@ -1,0 +1,12 @@
+﻿/* styleClient.css */
+
+/* Style pour les étiquettes (ex. "Nom de Client:") */
+.col-form-label {
+    font-weight: bold;
+    color: black; /* Garde les étiquettes en noir */
+}
+
+/* Style pour les informations du client */
+.client-info {
+    color: blue; /* Le texte des informations du client sera en bleu */
+}

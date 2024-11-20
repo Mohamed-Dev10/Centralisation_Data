@@ -1,0 +1,56 @@
+﻿@model CentralisationdeDonnee.Models.Client
+
+
+<div>
+    <h4>Détails du Client</h4>
+    <dl class="dl-horizontal">
+        <dt>Nom:</dt>
+        <dd>@Model.clientName</dd>
+
+        <dt>Adresse:</dt>
+        <dd>@Model.clientAddress</dd>
+
+        <dt>Email:</dt>
+        <dd>@Model.clientEmail</dd>
+
+        <dt>Industrie:</dt>
+        <dd>@Model.clientIndustry</dd>
+
+        <dt>Type:</dt>
+        <dd>@Model.clientType</dd>
+
+        <dt>Contacts:</dt>
+        <dd>
+            @if (Model.ContactClients.Any())
+            {
+                <ul>
+                    @foreach (var contact in Model.ContactClients)
+                    {
+                        <li>@contact.clientName (@contact.clientEmail)</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>Aucun contact disponible</p>
+            }
+        </dd>
+
+        <dt>Solutions ArcGIS:</dt>
+        <dd>
+            @if (Model.ArcgisSolutions.Any())
+            {
+                <ul>
+                    @foreach (var solution in Model.ArcgisSolutions)
+                    {
+                        <li>@solution.TitredArcgisSolution - @solution.DescriptionRole</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>Aucune solution ArcGIS disponible</p>
+            }
+        </dd>
+    </dl>
+</div>

@@ -1,0 +1,1312 @@
+﻿@model CentralisationV0.Models.Entities.IndexAndDetailsViewModel
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Boxicons -->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <!-- My CSS -->
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- Inclure la bibliothèque SweetAlert2 depuis un CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.0/sweetalert.min.js"></script>
+    <!-- My CSS -->
+
+
+    <link rel="stylesheet" href="~/Content/styles/style.css">
+    <link rel="stylesheet" href="~/Content/styles/styleIndex.css">
+
+    <link rel="stylesheet" href="~/Content/styles/styleProjet.css">
+
+    <title>GEOMATIC</title>
+</head>
+<body>
+
+
+    <!-- SIDEBAR -->
+    <section id="sidebar">
+        <div class="logo-nav">
+            <a href="index.html" class="brand">
+                <img src="~/Content/img/logo-geomatic.png" style="width: 70%;" />
+            </a>
+        </div>
+        <ul class="side-menu top">
+            <li>
+                <a href="~/Account/Index">
+                    <i class='bx bxs-dashboard'></i>
+                    <span class="text">Tableau de bord</span>
+                </a>
+            </li>
+            <li>
+                <a href="~/donnee/Index">
+                    <i class='bx bxs-doughnut-chart'></i>
+                    <span class="text">Données</span>
+                </a>
+            </li>
+            <li class="active">
+                <a href="~/Projet/Index">
+                    <i class='bx bxs-shopping-bag-alt'></i>
+                    <span class="text">Projets</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="Clients.html">
+                    <i class='bx bxs-message-dots'></i>
+                    <span class="text">Clients</span>
+                </a>
+            </li>
+            <li>
+                <a href="Equipe.html">
+                    <i class='bx bxs-group'></i>
+                    <span class="text">Equipe</span>
+                </a>
+            </li>
+        </ul>
+        <ul class="side-menu">
+            <li>
+                <a href="Parametre.html">
+                    <i class='bx bxs-cog'></i>
+                    <span class="text">Paramètres</span>
+                </a>
+            </li>
+            <li>
+                <a href="Connexion.html" class="logout">
+                    <i class='bx bxs-log-out-circle'></i>
+                    <span class="text">Se deconnecter</span>
+                </a>
+            </li>
+        </ul>
+    </section>
+    <!-- SIDEBAR -->
+    <!-- CONTENT -->
+    <section id="content">
+        <!-- NAVBAR -->
+        <nav>
+            <i class='bx bx-menu'></i>
+
+            <form action="#">
+                <div class="form-input">
+                    <input type="search" placeholder="Recherche...">
+                    <button type="submit" class="search-btn"><i class='bx bx-search'></i></button>
+                </div>
+            </form>
+            <input type="checkbox" id="switch-mode" hidden>
+            <label for="switch-mode" class="switch-mode"></label>
+            <a href="#" class="notification">
+                <i class='bx bxs-bell'></i>
+                <span class="num">8</span>
+            </a>
+            <a href="Projets.html" class="profile">
+                <img src="img/people.png">
+            </a>
+        </nav>
+        <!-- NAVBAR -->
+        <!-- MAIN -->
+        <main>
+            <div class="head-title">
+                <div class="left">
+                    <h1>Projets</h1>
+
+                </div>
+
+            </div>
+
+            <div class="head-title">
+                <div class="left">
+                    <h1></h1>
+                    <ul class="breadcrumb">
+
+                        <li></li>
+                        <li>
+
+                        </li>
+                    </ul>
+                </div>
+
+                <span data-toggle="modal" data-target="#ModalAdding" class="btn-download addData" style="margin-top: 10px;cursor:pointer">
+                    <i class='bx bx-plus-circle'></i>
+                    <span class="text">Ajouter un projet</span>
+                </span>
+            </div>
+            <div class="table-data">
+                <div class="order">
+                    <div class="head">
+
+                        <h3>Projets</h3>
+                        <i class='bx bx-search'></i>
+                        <i class='bx bx-filter'></i>
+                    </div>
+                    <table id="projetinfo">
+                        <thead>
+                            <tr>
+                                <th style="text-align: center;">Projet</th>
+                                <th style="text-align:center;">Client</th>
+                                <th style="text-align:center;">Date Début</th>
+                                <th style="text-align:center;">Date fin</th>
+                                <th style="text-align:center;">Type de collaboration</th>
+                                <th style="text-align:center;">Durée(Mois)</th>
+                                <th style="text-align:center;">Description</th>
+                                <th style="text-align:center;">Status</th>
+                                <th style="text-align: center;">Actions</th>
+
+                            </tr>
+                        </thead>
+                        <tbody id="projectBody">
+                            @if (Model != null && Model.Collaborations != null)
+                            {
+                            foreach (var project in Model.Collaborations)
+                            {
+                            <tr data-collaboration-name="@project.Titre" data-id="@project.idCollaborateur">
+                                <td style="text-align: center;">@project.Titre</td>
+                                <td style="text-align: center;">@project.Client.clientName</td>
+                                <td style="text-align: center;">@project.StartDate.ToString("dd/MM/yyyy")</td>
+                                <td style="text-align: center;">@project.EndDate.ToString("dd/MM/yyyy")</td>
+                                <td style="text-align: center;">@project.TypeCollaboration.NomType</td>
+                                <td style="text-align: center;">@project.Duration</td>
+                                <td style="text-align: center;">@project.description</td>
+                                <td style="text-align: center;">@project.Status</td>
+                                <td style="text-align: center;">
+                                    <span class="status completed data-button" data-toggle="modal" data-target="#dataModal">
+                                        <i class='bx bx-data' style="font-size: 14px;" onclick="triggerCollaborationFileUpload(@project.idCollaborateur)"></i>
+                                    </span>
+                                    <!-- Formulaire caché pour l'upload -->
+                                    <form id="fileUploadForm" enctype="multipart/form-data">
+                                        <input type="file" id="fileInput" name="file" style="display: none;">
+                                        <input type="hidden" id="collaborationId" name="collaborationId" value="">
+                                    </form>
+                                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdateProjet" data-id="@project.idCollaborateur" onclick="populateProject(this)">
+                                        <i class='bx bx-edit' style="font-size: 14px;"></i>
+                                    </span>
+                                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);"
+                                          data-toggle="modal" data-target="#ModalDetailProjet"
+                                          data-id="@project.idCollaborateur"
+                                          onclick="showCollaborationDetails(this)">
+                                        <i class='bx bx-show' style="font-size: 14px;"></i>
+                                    </span>
+
+                                    <button type="button" class="status completed delete-button" style="background-color: red;" data-id="@project.idCollaborateur" onclick="deleteProject(this)">
+                                        <i class='bx bx-trash' style="font-size: 14px;"></i>
+                                    </button>
+                                </td>
+                            </tr>}
+                            }
+                        </tbody>
+
+
+                        <script>function populateProject(button) {
+                                var dataId = $(button).attr('data-id');
+                                $('#dataId').val(dataId);
+
+                                $.ajax({
+                                    url: '/Projet/GetById/' + dataId,
+                                    type: 'GET',
+                                    success: function (response) {
+                                        if (response.success) {
+                                            var project = response.data;
+
+                                            // Peupler les options du select pour Client
+                                            var clientOptions = '<option value="">Sélectionner un client</option>';
+                                            response.clients.forEach(function (client) {
+                                                clientOptions += `<option value="${client.idClient}">${client.clientName}</option>`;
+                                            });
+                                            $('#inputPClientsUpdate').html(clientOptions);
+
+                                            // Peupler les options du select pour TypeCollaboration
+                                            var typeCollaborationOptions = '<option value="">Sélectionner un type de collaboration</option>';
+                                            response.typeCollaborations.forEach(function (type) {
+                                                typeCollaborationOptions += `<option value="${type.idTypeCollaboration}">${type.NomType}</option>`;
+                                            });
+                                            $('#inputTypeCollaborationUpdate').html(typeCollaborationOptions);
+
+                                            // Définir les valeurs récupérées
+                                            $('#inputProjetUpdate').val(project.Titre);
+                                            $('#inputPClientsUpdate').val(project.ClientId);
+                                            $('#inputDateDebutUpdate').val(project.StartDate ? project.StartDate.split('T')[0] : '');
+                                            $('#inputDateFinUpdate').val(project.EndDate ? project.EndDate.split('T')[0] : '');
+                                            $('#inputDureeUpdate').val(project.Duration);
+                                            $('#inputDescriptionUpdate').val(project.Description);
+                                            $('#inputStatusUpdate').val(project.Status); // Assurez-vous que cet ID correspond à votre champ HTML
+                                            $('#inputTypeCollaborationUpdate').val(project.TypeCollaborationId);
+
+                                            // Afficher les fichiers existants directement dans le script
+                                            function displayFiles(files, dataId) {
+                                                var filesHtml = '';
+                                                files.forEach(function (file) {
+                                                    filesHtml += `<tr>
+                                                        <td>${file.FileName}</td>
+                                                        <td style="text-align: center;">
+                                                            <button type="button" class="status completed delete-file-btn" data-filename="${file.FileName}" data-collaborationid="${dataId}">
+                                                                <i class="fas fa-trash"></i>
+                                                            </button>
+                                                        </td>
+                                                    </tr>`;
+                                                });
+
+                                                $('#existingFilesBody').html(filesHtml);
+
+                                                // Afficher le modal
+                                                $('#ModalUpdateProjet').modal('show');
+                                            }
+
+                                            // Appeler la fonction pour afficher les fichiers
+                                            displayFiles(response.files, dataId);
+
+                                            // Ajouter l'événement pour le changement de fichier
+                                            $('#fileUploadInput').on('change', function () {
+                                                var formData = new FormData();
+                                                var fileInput = $('#fileUploadInput')[0].files[0];
+                                                var collaborationId = $('#dataId').val();
+
+                                                if (!fileInput) {
+                                                    alert("Veuillez sélectionner un fichier à télécharger.");
+                                                    return;
+                                                }
+
+                                                formData.append('file', fileInput);
+                                                formData.append('collaborationId', collaborationId);
+
+                                                $.ajax({
+                                                    url: '/Projet/UploadFile',
+                                                    type: 'POST',
+                                                    data: formData,
+                                                    contentType: false,
+                                                    processData: false,
+                                                    success: function (response) {
+                                                        if (response.success) {
+                                                            Swal.fire({
+                                                                title: 'Succès!',
+                                                                text: 'Fichier téléchargé avec succès.',
+                                                                icon: 'success',
+                                                                confirmButtonText: 'OK'
+                                                            });
+
+                                                            // Ajouter la nouvelle ligne au tableau des fichiers
+                                                            var newRow = `<tr>
+                                                                <td>${fileInput.name}</td>
+                                                                <td style="text-align: center;">
+                                                                    <button type="button" class="status completed delete-file-btn" data-filename="${fileInput.name}" data-collaborationid="${collaborationId}">
+                                                                        <i class="fas fa-trash"></i>
+                                                                    </button>
+                                                                </td>
+                                                            </tr>`;
+                                                            $('#existingFilesBody').append(newRow);
+                                                        } else {
+                                                            Swal.fire({
+                                                                title: 'Erreur!',
+                                                                text: response.message,
+                                                                icon: 'error',
+                                                                confirmButtonText: 'OK'
+                                                            });
+                                                        }
+                                                    },
+                                                    error: function (xhr, status, error) {
+                                                        console.error("AJAX Error: ", status, error);
+                                                        Swal.fire({
+                                                            title: 'Erreur!',
+                                                            text: 'Une erreur est survenue lors du téléchargement du fichier.',
+                                                            icon: 'error',
+                                                            confirmButtonText: 'OK'
+                                                        });
+                                                    }
+                                                });
+                                            });
+
+                                        } else {
+                                            alert(response.message);
+                                        }
+                                    },
+                                    error: function (xhr, status, error) {
+                                        console.error("AJAX Error: ", status, error);
+                                        alert("Une erreur est survenue lors de la récupération des données.");
+                                    }
+                                });
+
+
+                            $(document).ready(function () {
+                                // Gestion de la suppression des fichiers
+                                $('#existingFilesBody').on('click', '.delete-file-btn', function () {
+                                    var fileName = $(this).data('filename');
+                                    var collaborationId = $(this).data('collaborationid');
+
+                                    $.ajax({
+                                        url: '/Projet/DeleteFile',
+                                        type: 'POST',
+                                        data: { fileName: fileName, collaborationId: collaborationId },
+                                        success: function (response) {
+                                            if (response.success) {
+
+                                                Swal.fire({
+                                                    title: 'Succès!',
+                                                    text: 'Fichier supprimé avec succès.',
+                                                    icon: 'success',
+                                                    confirmButtonText: 'OK'
+                                                });
+
+                                                // Retirer la ligne du tableau
+                                                $(this).closest('tr').remove();
+
+                                            } else {
+                                                Swal.fire({
+                                                    title: 'Erreur!',
+                                                    text: response.message,
+                                                    icon: 'error',
+                                                    confirmButtonText: 'OK'
+                                                });
+                                            }
+                                        }.bind(this),
+                                        error: function (xhr, status, error) {
+                                            console.error("AJAX Error: ", status, error);
+                                            Swal.fire({
+                                                title: 'Erreur!',
+                                                text: 'Une erreur est survenue lors de la suppression du fichier.',
+                                                icon: 'error',
+                                                confirmButtonText: 'OK'
+                                            });
+                                        }
+                                    });
+                                });
+                            });
+                            }</script>
+
+
+
+
+
+                        <script>function showCollaborationDetails(element) {
+                                var $tr = $(element).closest('tr'); // Trouve la ligne de tableau la plus proche
+                                var dataId = $tr.data('id');
+                                var collaborationName = $tr.data('collaboration-name');
+
+                                $.ajax({
+                                    url: '/Livrable/GetCollaborationDetails',
+                                    type: 'GET',
+                                    data: { dataId: dataId },
+                                    success: function (data) {
+                                        $('#labelProjet').text(data.Titre);
+                                        $('#labelClients').text(data.Clients);
+                                        $('#labelDateDebut').text(data.DateDebut);
+                                        $('#labelDateFin').text(data.DateFin);
+                                        $('#labelTypeCollaboration').text(data.TypeCollaboration);
+                                        $('#labelDuree').text(data.Duree);
+                                        $('#labelDescription').text(data.Description);
+                                        $('#labelStatus').text(data.Statut);
+
+                                        var fileSelectionHtml = '';
+
+                                        if (data.Files && data.Files.length > 0) {
+                                            data.Files.forEach(function (file) {
+                                                fileSelectionHtml += '<div><a href="/Livrable/DownloadLivrable?fileName=' + encodeURIComponent(file.FileName) + '&collaborationName=' + encodeURIComponent(collaborationName) + '" download>' + file.FileName + '</a></div>';
+                                            });
+                                        } else {
+                                            fileSelectionHtml = '<p>Aucun fichier disponible.</p>';
+                                        }
+                                        $('#labelFileSelection').html(fileSelectionHtml);
+
+                                        $('#ModalDetailProjet').modal('show');
+                                    },
+                                    error: function (xhr, status, error) {
+                                        alert('Error fetching collaboration details: ' + error);
+                                    }
+                                });
+                            }</script>
+                        <form id="collaborationFileUploadForm" enctype="multipart/form-data" style="display:none;">
+                            <input type="file" id="collaborationFileInput" name="file" style="display:none;" />
+                            <input type="hidden" id="dataId" name="dataId" />
+                        </form>
+
+
+                        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+                        <script type="text/javascript">function triggerCollaborationFileUpload(dataId) {
+                                var fileInput = document.getElementById('collaborationFileInput');
+                                document.getElementById('dataId').value = dataId;
+                                fileInput.click();
+                                fileInput.onchange = function () {
+                                    uploadCollaborationFile();
+                                };
+                            }
+
+                            function uploadCollaborationFile() {
+                                var form = document.getElementById('collaborationFileUploadForm');
+                                var formData = new FormData(form);
+
+
+
+                                fetch('/Livrable/UploadLivrable', {
+                                    // Assurez-vous que ce chemin est correct
+                                    method: 'POST',
+                                    body: formData
+                                })
+                                    .then(response => {
+                                        if (response.ok) {
+                                            alert('File uploaded successfully!');
+                                            location.reload(); // Reload to see the updated list
+                                        } else {
+                                            response.text().then(text => { alert('File upload failed: ' + text); });
+                                        }
+                                    })
+                                    .catch(error => {
+                                        alert('File upload failed: ' + error.message);
+                                    });
+                            }</script>
+
+                        <script>function deleteProject(button) {
+                                var projectId = $(button).data('id');
+
+                                if (confirm("Voulez-vous vraiment supprimer ce projet?")) {
+                                    $.ajax({
+                                        url: '/Projet/Delete', // Vérifiez que cette URL correspond à l'action du contrôleur
+                                        type: 'POST',
+                                        data: { id: projectId },
+                                        success: function (response) {
+                                            if (response.success) {
+                                                alert(response.message);
+                                                location.reload(); // Recharge la page pour refléter les modifications
+                                            } else {
+                                                alert(response.message);
+                                            }
+                                        },
+                                        error: function (xhr, status, error) {
+                                            console.error("AJAX Error: ", status, error);
+                                            alert("Une erreur est survenue lors de la suppression du projet.");
+                                        }
+                                    });
+                                }
+                            }</script>
+
+
+                        <tbody>
+                            <tr>
+
+                                <td style="text-align:center;">Projet 1</td>
+                                <td style="text-align: center;"><img src="img/oncf.png"></td>
+                                <td style="text-align:center;">01/10/2021</td>
+                                <td style="text-align:center;">01/12/2021</td>
+                                <td style="text-align:center;">un Projet</td>
+                                <td style="text-align:center;">2</td>
+
+                                <td style="text-align:center;">Description oncf</td>
+                                <td style="text-align:center;"><span class="status completed">Finalisé</span></td>
+
+                                <td style="text-align: center;">
+                                    <span class="status completed data-button" data-toggle="modal" data-target="#dataModal">
+                                        <i class='bx bx-data' style="font-size: 14px;"></i> <!-- Adjust the font size as needed -->
+                                    </span>
+                                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdateProjet">
+                                        <i class='bx bx-edit' style="font-size: 14px;"></i> <!-- Adjust the font size as needed -->
+                                    </span>
+                                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#ModalDetailProjet">
+                                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                                    </span>
+                                </td>
+
+
+                            </tr>
+                            <tr>
+
+                                <td style="text-align:center;">Projet 2</td>
+                                <td style="text-align:center;"><img src="img/onssa.png"></td>
+                                <td style="text-align:center;">20/04/2021</td>
+                                <td style="text-align:center;">20/10/2021</td>
+                                <td style="text-align:center;">un Projet</td>
+                                <td style="text-align:center;">6</td>
+                                <td style="text-align:center;">Description onssa</td>
+                                <td style="text-align:center;"><span class="status pending">Suspendu</span></td>
+                                <td style="text-align: center;">
+                                    <span class="status completed data-button" data-toggle="modal" data-target="#dataModal">
+                                        <i class='bx bx-data' style="font-size: 14px;"></i> <!-- Adjust the font size as needed -->
+                                    </span>
+                                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdateProjet">
+                                        <i class='bx bx-edit' style="font-size: 14px;"></i> <!-- Adjust the font size as needed -->
+                                    </span>
+                                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#ModalDetailProjet">
+                                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                                    </span>
+                                </td>
+
+                            </tr>
+                            <tr>
+
+                                <td style="text-align:center;">Projet 3</td>
+                                <td style="text-align:center;"><img src="img/radeef.jpg"></td>
+                                <td style="text-align:center;">01/10/2021</td>
+                                <td style="text-align:center;">01/10/2023</td>
+                                <td style="text-align:center;">un Projet</td>
+                                <td style="text-align:center;">24</td>
+                                <td style="text-align:center;">Description radeef</td>
+                                <td style="text-align:center;"><span class="status process">En attente</span></td>
+                                <td style="text-align: center;">
+                                    <span class="status completed data-button" data-toggle="modal" data-target="#dataModal">
+                                        <i class='bx bx-data' style="font-size: 14px;"></i> <!-- Adjust the font size as needed -->
+                                    </span>
+                                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdateProjet">
+                                        <i class='bx bx-edit' style="font-size: 14px;"></i> <!-- Adjust the font size as needed -->
+                                    </span>
+                                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#ModalDetailProjet">
+                                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                                    </span>
+                                </td>
+                            </tr>
+                            <tr>
+
+                                <td style="text-align:center;">Projet 4</td>
+                                <td style="text-align:center;"><img src="img/lydec.png"></td>
+                                <td style="text-align:center;">11/12/2021</td>
+                                <td style="text-align:center;">11/12/2023</td>
+                                <td style="text-align:center;">bon de commande</td>
+                                <td style="text-align:center;">24</td>
+                                <td style="text-align:center;">Description lydeec</td>
+                                <td style="text-align: center;"><span class="status pending">En cours</span></td>
+                                <td style="text-align: center;">
+                                    <span class="status completed data-button" data-toggle="modal" data-target="#dataModal">
+                                        <i class='bx bx-data' style="font-size: 14px;"></i> <!-- Adjust the font size as needed -->
+                                    </span>
+                                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdateProjet">
+                                        <i class='bx bx-edit' style="font-size: 14px;"></i> <!-- Adjust the font size as needed -->
+                                    </span>
+                                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#ModalDetailProjet">
+                                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                                    </span>
+                                </td>
+                            </tr>
+                            <tr>
+
+                                <td style="text-align:center;">Projet 5</td>
+                                <td style="text-align:center;"><img src="img/IAM.png"></td>
+                                <td style="text-align:center;">01/10/2021</td>
+                                <td style="text-align:center;">01/10/2024</td>
+
+                                <td style="text-align:center;">Maintenance</td>
+                                <td style="text-align:center;">36</td>
+                                <td style="text-align:center;">Description IAM</td>
+                                <td style="text-align: center;"><span class="status completed">Finalisé</span></td>
+                                <td style="text-align: center;">
+                                    <span class="status completed data-button" style="margin-right: 5px;" data-toggle="modal" data-target="#dataModal">
+                                        <i class='bx bx-data' style="font-size: 14px;"></i> <!-- Data icon -->
+                                    </span>
+                                    <span class="status completed edit-button" style="margin-right: 5px; background-color: green;" data-toggle="modal" data-target="#ModalUpdateProjet">
+                                        <i class='bx bx-edit' style="font-size: 14px;"></i> <!-- Edit icon -->
+                                    </span>
+                                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#ModalDetailProjet">
+                                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                                    </span>
+                                </td>
+
+
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+        </main>
+
+        <!-- MAIN -->
+    </section>
+    <!-- CONTENT -->
+    <table id="donneInfo" style="width: 150%;display: none;">
+        <thead>
+            <tr>
+                <th style="text-align: center;">Titre</th>
+                <th style="text-align: center;">Date Réception</th>
+                <th style="text-align: center;">Date de Publication </th>
+                <th style="text-align: center;">Date Dernièr Mise à Jour </th>
+                <th style="text-align: center;">Description </th>
+                <th style="text-align: center;">Catégorie</th>
+                <th style="text-align: center;">Thème</th>
+                <th style="text-align: center;">Couverture</th>
+                <th style="text-align: center;">Résolution Spatial</th>
+                <th style="text-align: center;">Résumé</th>
+                <th style="text-align: center;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="text-align: center;">
+
+                    <p>Projet 1</p>
+                    <img src="img/oncf.png">
+                </td>
+                <td style="text-align: center;">01/10/2021</td>
+                <td style="text-align: center;">05/10/2022</td>
+                <td style="text-align: center;">05/10/2024</td>
+                <td style="text-align: center;">Modification donnee</td>
+                <td style="text-align: center;">Chemin de fer</td>
+                <td style="text-align: center;">Transport</td>
+                <td style="text-align: center;">Casa/Rabat</td>
+                <td style="text-align: center;">résolution oncf</td>
+                <td style="text-align: center;">résumé oncf</td>
+                <td style="text-align: center;">
+                    <span class="status completed downdata-button">
+                        <i class='bx bxs-download' style="font-size: 14px;"></i> <!-- Use the download icon class -->
+                    </span>
+                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdating" onclick="uulateUpdateModal(this)">
+                        <i class='bx bx-edit' style="font-size: 14px;"></i>
+                    </span>
+
+                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#exampleModal">
+                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                    </span>
+                </td>
+
+            </tr>
+            <tr>
+                <td style="text-align: center;">
+
+                    <p>Projet 2</p>
+                    <img src="img/onssa.png">
+                </td>
+                <td style="text-align: center;">01/10/2021</td>
+                <td style="text-align: center;">05/10/2022</td>
+                <td style="text-align: center;">05/10/2023</td>
+                <td style="text-align: center;">Modification donnee</td>
+                <td style="text-align: center;">Contrôle de qualité</td>
+                <td style="text-align: center;">Climat et Agriculture</td>
+                <td style="text-align: center;">Casa/Rabat</td>
+                <td style="text-align: center;">résolution ONSSA</td>
+                <td style="text-align: center;">résumé ONSSA</td>
+                <td style="text-align: center;">
+                    <span class="status completed downdata-button">
+                        <i class='bx bxs-download' style="font-size: 14px;"></i> <!-- Use the download icon class -->
+                    </span>
+                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdating" onclick="populateUpdateModal(this)">
+                        <i class='bx bx-edit' style="font-size: 14px;"></i>
+                    </span>
+
+                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#exampleModal">
+                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                    </span>
+                </td>
+
+            </tr>
+            <tr>
+                <td style="text-align: center;">
+
+                    <p>Projet 3</p>
+                    <img src="img/radeef.jpg">
+                </td>
+                <td style="text-align: center;">01/10/2021</td>
+                <td style="text-align: center;">05/10/2022</td>
+                <td style="text-align: center;">05/10/2023</td>
+                <td style="text-align: center;">Modification donnee</td>
+                <td style="text-align: center;">Eléctricité et l'Eeau</td>
+                <td style="text-align: center;">la distribution d'eau et d'électricité</td>
+                <td style="text-align: center;">Fes</td>
+                <td style="text-align: center;">résolution RADEEF</td>
+                <td style="text-align: center;">résumé RADEEF</td>
+                <td style="text-align: center;">
+                    <span class="status completed downdata-button">
+                        <i class='bx bxs-download' style="font-size: 14px;"></i> <!-- Use the download icon class -->
+                    </span>
+                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdating" onclick="populateUpdateModal(this)">
+                        <i class='bx bx-edit' style="font-size: 14px;"></i>
+                    </span>
+
+                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#exampleModal">
+                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                    </span>
+                </td>
+
+            </tr>
+            <tr>
+                <td style="text-align: center;">
+
+                    <p>Projet 4</p>
+                    <img src="img/lydec.png">
+                </td>
+                <td style="text-align: center;">01/10/2021</td>
+                <td style="text-align: center;">05/10/2022</td>
+                <td style="text-align: center;">05/03/2023</td>
+                <td style="text-align: center;">Modification donnee</td>
+                <td style="text-align: center;">Eléctricité et l'Eeau</td>
+                <td style="text-align: center;">la distribution d'eau et d'électricité</td>
+                <td style="text-align: center;">Casa/Rabat</td>
+                <td style="text-align: center;">résolution LYDEC</td>
+                <td style="text-align: center;">résumé LYDEC</td>
+                <td style="text-align: center;">
+                    <span class="status completed downdata-button">
+                        <i class='bx bxs-download' style="font-size: 14px;"></i> <!-- Use the download icon class -->
+                    </span>
+                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdating" onclick="populateUpdateModal(this)">
+                        <i class='bx bx-edit' style="font-size: 14px;"></i>
+                    </span>
+
+                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#exampleModal">
+                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                    </span>
+                </td>
+
+            </tr>
+            <tr>
+                <td style="text-align: center;">
+
+                    <p>IAM</p>
+                    <img src="img/IAM.png">
+                </td>
+                <td style="text-align: center;">01/10/2021</td>
+                <td style="text-align: center;">05/10/2022</td>
+                <td style="text-align: center;">05/01/2023</td>
+                <td style="text-align: center;">Modification donnee</td>
+                <td style="text-align: center;">Télecommunication</td>
+                <td style="text-align: center;">Centre de Télecommunication</td>
+                <td style="text-align: center;">Casa/Rabat</td>
+                <td style="text-align: center;">résolution IAM</td>
+                <td style="text-align: center;">résumé IAM</td>
+                <td style="text-align: center;">
+                    <span class="status completed downdata-button">
+                        <i class='bx bxs-download' style="font-size: 14px;"></i> <!-- Use the download icon class -->
+                    </span>
+                    <span class="status completed edit-button" style="background-color: green;" data-toggle="modal" data-target="#ModalUpdating" onclick="populateUpdateModal(this)">
+                        <i class='bx bx-edit' style="font-size: 14px;"></i>
+                    </span>
+
+                    <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#exampleModal">
+                        <i class='bx bx-show' style="font-size: 14px;"></i> <!-- Show icon remains unchanged -->
+                    </span>
+                </td>
+
+            </tr>
+        </tbody>
+    </table>
+    <!-- Modal for displaying project details -->
+    <div class="modal fade" id="ModalDetailProjet" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Détails du Projet</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="labelProjet" class="col-form-label">Projet:</label>
+                                <label id="labelProjet" class="col-form-label"></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="labelClients" class="col-form-label">Clients:</label>
+                                <label id="labelClients" class="col-form-label"></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="labelDateDebut" class="col-form-label">Date de Début:</label>
+                                <label id="labelDateDebut" class="col-form-label"></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="labelDateFin" class="col-form-label">Date de Fin:</label>
+                                <label id="labelDateFin" class="col-form-label"></label>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="labelTypeCollaboration" class="col-form-label">Type de Collaboration:</label>
+                                <label id="labelTypeCollaboration" class="col-form-label"></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="labelDuree" class="col-form-label">Durée (Mois):</label>
+                                <label id="labelDuree" class="col-form-label"></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="labelDescription" class="col-form-label">Description:</label>
+                                <label id="labelDescription" class="col-form-label"></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="labelStatus" class="col-form-label">Statut:</label>
+                                <label id="labelStatus" class="col-form-label"></label>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="labelFileSelection" class="col-form-label">Fichiers sélectionnés:</label>
+                            <div id="labelFileSelection" class="col-form-label"></div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+            </div>
+        </div>
+    </div>
+    </div>
+    <script>function showProjectDetails(element) {
+            var id = $(element).data('id');
+
+            $.ajax({
+                url: '/Projet/Details/' + id,
+                method: 'GET',
+                success: function (data) {
+                    // Remplir le modal avec les détails du projet
+                    $('#labelProjet').text(data.Titre);
+                    $('#labelClients').text(data.Clients);
+                    $('#labelDateDebut').text(data.StartDate);
+                    $('#labelDateFin').text(data.EndDate);
+                    $('#labelTypeCollaboration').text(data.TypeCollaboration);
+                    $('#labelDuree').text(data.Duration);
+                    $('#labelDescription').text(data.Description);
+                    $('#labelStatus').text(data.Status);
+
+                    // Afficher les fichiers
+                    $('#labelFileSelection').empty();
+                    data.Files.forEach(function (file) {
+                        $('#labelFileSelection').append(
+                            `<div>
+                                  <a href="/Livrable/DownloadLivrable?fileName=${encodeURIComponent(file.FileName)}&collaborationName=${encodeURIComponent(collaborationName)}" download>${file.FileName}</a>
+                            </div>`
+                        );
+                    });
+
+                    // Afficher le modal
+                    $('#ModalDetailProjet').modal('show');
+                }
+            });
+        }</script>
+
+
+    <!-- Modal for adding a project -->
+    <div class="modal fade" id="ModalAdding" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <form id="formAjouterProjet" method="post">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Ajouter un Projet</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="inputProjet" class="col-form-label">Projet</label>
+                                    <input type="text" class="form-control" id="inputProjet" name="inputProjet" value="">
+                                </div>
+                                <div class="form-group">
+                                    <label for="idInputClients">Clients</label>
+                                    <div class="input-group">
+                                        <select class="form-control" id="idInputClients" name="idInputClients">
+                                            @foreach (var client in Model.Clients)
+                                            {
+                                            <option value="@client.idClient">@client.clientName</option>}
+                                        </select>
+                                        <div class="input-group-append">
+                                            <button class="btn btn-primary" type="button" id="addClientButton" data-toggle="modal" data-target="#ModalAddingClient">Add Client</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="inputDateFin" class="col-form-label">Date de Fin</label>
+                                    <input type="date" class="form-control" id="inputDateFin" name="inputDateFin">
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputDuree" class="col-form-label">Durée (Mois):</label>
+                                    <input type="number" class="form-control" id="inputDuree" name="inputDuree">
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-sm-3 col-form-label">Donnée:</label>
+                                    <div class="dropdown">
+                                        <button class="btn btn-secondary dropdown-toggle" style="width: 100%; background-color:white; color:black;" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <span id="checkboxCount">0</span> Sélectionné(s)
+                                        </button>
+                                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                            @foreach (var donnee in Model.DataList)
+                                            {
+                                            <li>
+                                                <label class="dropdown-item">
+                                                    <input type="checkbox" value="@donnee.IdData" name="donnee" /> @donnee.Title
+                                                </label>
+                                            </li>}
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="inputTypeCollaboration" class="col-form-label">Type de collaboration:</label>
+                                    <select class="form-control" id="inputTypeCollaboration" name="inputTypeCollaboration">
+                                        <option value="un Projet">un Projet</option>
+                                        <option value="bon de commande">bon de commande</option>
+                                        <option value="Maintenance">Maintenance</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputDateDebut" class="col-form-label">Date de Début:</label>
+                                    <input type="date" class="form-control" id="inputDateDebut" name="inputDateDebut">
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputStatus" class="col-form-label">Statut:</label>
+                                    <select class="form-control" id="inputStatus" name="inputStatus">
+                                        <option value="Finalisé">Finalisé</option>
+                                        <option value="En cours">En cours</option>
+                                        <option value="En attente">En attente</option>
+                                        <option value="Suspendu">Suspendu</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputDescription" class="col-form-label">Description:</label>
+                                    <textarea class="form-control" id="inputDescription" name="inputDescription" rows="5"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                        <button type="submit" class="btn btn-primary">Ajouter</button>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+    </div>
+    <script>$(document).ready(function () {
+            $('#formAjouterProjet').on('submit', function (e) {
+                e.preventDefault();
+
+                var formData = {
+                    Titre: $('#inputProjet').val(),
+                    ClientId: $('#idInputClients').val(),
+                    EndDate: $('#inputDateFin').val(),
+                    Duration: $('#inputDuree').val(),
+                    StartDate: $('#inputDateDebut').val(),
+                    Description: $('#inputDescription').val(),
+                    TypeCollaboration: $('#inputTypeCollaboration').val(),
+                    Status: $('#inputStatus').val(),  // Ajouter le statut
+                    SelectedDonnees: $('input[name="donnee"]:checked').map(function () { return this.value; }).get()
+                };
+
+                $.ajax({
+                    url: '/Projet/AjouterProjet',
+                    type: 'POST',
+                    data: JSON.stringify(formData),
+                    contentType: 'application/json; charset=utf-8',
+                    dataType: 'json',
+                    success: function (response) {
+                        if (response.success) {
+                            alert("Projet ajouté avec succès !");
+                            $('#ModalAdding').modal('hide');
+                            // Redirigez ou rechargez la page selon vos besoins
+                            window.location.href = '/Projet/Index';
+                        } else {
+                            alert("Une erreur s'est produite lors de l'ajout du projet.");
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        alert("Une erreur s'est produite : " + error);
+                    }
+                });
+            });
+        });</script>
+    <div class="modal fade" id="ModalAddingClient" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Ajouter un Client</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="inputProjet" class="col-form-label">Nom:</label>
+                                <input type="text" class="form-control" id="inputClientNom">
+                            </div>
+                            <div class="form-group">
+                                <label for="inputClients" class="col-form-label">Email:</label>
+                                <div class="input-group">
+                                    <input type="text" class="form-control" id="inputEmailClients">
+
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="inputIndustrie" class="col-form-label">Industrie</label>
+
+                                <select class="form-control" id="inputIndustrie">
+                                    <option value="Technologie">Technologie</option>
+                                    <option value="Santé">Santé</option>
+                                    <option value="Finance">Finance</option>
+                                    <option value="Énergie">Énergie</option>
+                                    <option value="Transport et Logistique">Transport et Logistique</option>
+                                    <option value="Agricole">Agricole</option>
+                                </select>
+                            </div>
+
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="inputTypeClient" class="col-form-label">Type de client:</label>
+                                <select class="form-control" id="inputTypeClient">
+                                    <option value="Individuel">Individuel</option>
+                                    <option value="PME">PME</option>
+                                    <option value="Grand Compte">Grand Compte</option>
+                                    <option value="Institutionnel">Institutionnel</option>
+                                    <option value="B2B">B2B</option>
+                                    <option value="B2C">B2C</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="inputAdresse" class="col-form-label">Adresse</label>
+                                <input type="text" class="form-control" id="idInputAdresse">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                    <button type="button" id="btnAddClient" class="btn btn-primary">Ajouter</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Update Projet Modal -->
+    <!-- Update Projet Modal -->
+    <div class="modal fade" id="ModalUpdateProjet" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Modifier le Projet</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <input type="hidden" id="dataId">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <!-- Projet -->
+                            <div class="form-group">
+                                <label for="inputProjetUpdate" class="col-form-label">Projet:</label>
+                                <input type="text" class="form-control" id="inputProjetUpdate" name="inputProjetUpdate">
+                            </div>
+                            <!--Clients-->
+                            <div class="form-group">
+                                <label for="inputPClientsUpdate" class="col-form-label">Client:</label>
+                                <select class="form-control" id="inputPClientsUpdate" name="inputPClientsUpdate">
+                                    @foreach (var client in Model.Clients)
+                                    {
+                                    <option value="@client.idClient">@client.clientName</option>}
+                                </select>
+                            </div>
+                            <!-- Date de Début -->
+                            <div class="form-group">
+                                <label for="inputDateDebutUpdate" class="col-form-label">Date de Début:</label>
+                                <input type="date" class="form-control" id="inputDateDebutUpdate">
+                            </div>
+                            <!-- Date de Fin -->
+                            <div class="form-group">
+                                <label for="inputDateFinUpdate" class="col-form-label">Date de Fin:</label>
+                                <input type="date" class="form-control" id="inputDateFinUpdate">
+                            </div>
+                            <!-- Durée (Mois) -->
+                            <div class="form-group">
+                                <label for="inputDureeUpdate" class="col-form-label">Durée (Mois):</label>
+                                <input type="number" class="form-control" id="inputDureeUpdate" name="inputDureeUpdate">
+                            </div>
+                            <!-- Affichage des fichiers existants -->
+                            <div class="form-group">
+                                <label for="existingFiles" class="col-form-label">Fichiers Existants:</label>
+                                <div style="display: flex; align-items: flex-start;">
+                                    <table class="table table-bordered" id="existingFiles" style="width: auto; margin-right: 10px;">
+                                        <thead>
+                                            <tr>
+                                                <th>Nom du fichier</th>
+                                                <th style="text-align: center;">Supprimer</th>
+                                                <button class="btn btn-danger btn-sm delete-file-btn" data-filename="${fileInput.name}" data-collaborationid="${collaborationId}">
+                                                    <i class="fas fa-trash"></i>
+                                                </button>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="existingFilesBody">
+                                            <!-- Les lignes seront insérées ici par JavaScript -->
+                                            <div class="form-group">
+                                                <label for="inputDureeUpdate" class="col-form-label">Durée (Mois):</label>
+                                                <input type="number" class="form-control" id="inputDureeUpdate" name="inputDureeUpdate">
+                                            </div>
+                                        </tbody>
+                                    </table>
+
+                                    <!-- Section d'upload -->
+                                    <div class="upload-icon-wrapper" style="display: flex; align-items: center;">
+                                        <label for="fileUploadInput" class="btn btn-secondary btn-sm" style="margin-right: 10px;">
+                                            <i class="fas fa-upload"></i>
+                                        </label>
+                                        <input type="file" class="form-control-file" id="fileUploadInput" name="file" style="display: none;">
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <!-- Description -->
+                                <div class="form-group">
+                                    <label for="inputDescriptionUpdate" class="col-form-label">Description:</label>
+                                    <textarea class="form-control" id="inputDescriptionUpdate" rows="5"></textarea>
+                                </div>
+                                <!-- Status -->
+                                <div class="form-group">
+                                    <label for="inputStatusUpdate" class="col-form-label">Statut:</label>
+                                    <select class="form-control" id="inputStatusUpdate">
+                                        <option value="Finalisé">Finalisé</option>
+                                        <option value="En cours">En cours</option>
+                                        <option value="En attente">En attente</option>
+                                        <option value="Suspendu">Suspendu</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputTypeCollaborationUpdate" class="col-form-label">Type de collaboration:</label>
+                                    <select class="form-control" id="inputTypeCollaborationUpdate">
+                                        <option value="un Projet">un Projet</option>
+                                        <option value="bon de commande">bon de commande</option>
+                                        <option value="Maintenance">Maintenance</option>
+                                        <!-- Add more options as needed -->
+                                    </select>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                        <button type="button" class="btn btn-success" id="updateProjetBtn">Modifier</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>// Fonction pour soumettre la mise à jour du projet
+        $('#updateProjetBtn').click(function () {
+            var updatedProject = {
+                idCollaborateur: $('#dataId').val(),
+                Titre: $('#inputProjetUpdate').val(),
+                idClient: $('#inputPClientsUpdate').val(), // Utilisation de idClient
+                StartDate: $('#inputDateDebutUpdate').val(),
+                EndDate: $('#inputDateFinUpdate').val(),
+                Duration: $('#inputDureeUpdate').val(),
+                description: $('#inputDescriptionUpdate').val(),
+                Status: $('#inputStatusUpdate').val(),
+                idTypeCollaboration: $('#inputTypeCollaborationUpdate').val() // Utilisation de idTypeCollaboration
+            };
+
+
+            $.ajax({
+                url: '/Projet/Update',
+                type: 'POST',
+                data: updatedProject,
+                success: function (response) {
+                    if (response.success) {
+                        $('#ModalUpdateProjet').modal('hide');
+                        alert(response.message);
+                        location.reload(); // Recharge la page pour refléter les modifications
+                    } else {
+                        alert(response.message);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error("AJAX Error: ", status, error);
+                    alert("Une erreur est survenue lors de la mise à jour du projet.");
+                }
+            });
+        });</script>
+
+        <!-- Modal Structure -->
+        <div class="modal fade" id="dataModal" tabindex="-1" role="dialog" aria-labelledby="dataModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="dataModalLabel">Renseignements sur le projet</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <!-- The information from donneInfo will be displayed here -->
+                        <div id="modalDataContent">
+                            <div class="form-group">
+                                <label for="modalTitre">Titre:</label>
+                                <p id="modalTitre"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalDateAcquisition">Date Réception:</label>
+                                <p id="modalDateAcquisition"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalDatePublication">Date de Publication:</label>
+                                <p id="modalDatePublication"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalDatePublication">Date Dernièr Mise à Jour:</label>
+                                <p id="modalDatePublication"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalDescription">Description:</label>
+                                <p id="modalDescription"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalCategorie">Catégorie:</label>
+                                <p id="modalCategorie"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalTheme">Thème:</label>
+                                <p id="modalTheme"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalCouverture">Couverture:</label>
+                                <p id="modalCouverture"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalResolution">Résolution Spatial:</label>
+                                <p id="modalResolution"></p>
+                            </div>
+                            <div class="form-group">
+                                <label for="modalResume">Résumé:</label>
+                                <p id="modalResume"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+</body>
+</html>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script src="~/Content/Scripts/script.js"></script>
+<script src="~/Content/Scripts/scriptConnexion.js"></script>
+<script src="~/Content/Scripts/scriptIndex.js"></script>s
+<script src="~/Content/Scripts/scriptParamètres.js"></script>
+<script src="~/Content/Scripts/scriptProjet.js"></script>
+<script src="~/Content/Scripts/scriptEquipe.js"></script>
+
+
+}

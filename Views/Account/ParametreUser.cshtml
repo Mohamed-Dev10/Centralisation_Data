@@ -1,0 +1,267 @@
+﻿@model CentralisationV0.Models.Entities.EditUtilisateurViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Boxicons -->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <!-- My CSS -->
+    <link rel="stylesheet" href="~/Content/styles/styleUser.css">
+    <link rel="stylesheet" href="~/Content/styles/styleIndexUser.css">
+    <link rel="stylesheet" href="~/Content/styles/stypeParametreUser.css">
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- Chart.js -->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <!-- My CSS -->
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+    <!-- Bootstrap JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.0/sweetalert.min.js"></script>
+    <title>GEOMATIC</title>
+</head>
+
+
+<body>
+
+
+    <!-- SIDEBAR -->
+    <section id="sidebar">
+
+        <div class="logo-nav">
+            <a href="~/Account/indexUser" class="brand">
+                <img src="~/Content/img/logo-geomatic.png" style="width: 70%;" />
+            </a>
+        </div>
+
+        <ul class="side-menu top">
+            <li class="active">
+                <a href="~/Account/indexUser" class="brand">
+                    <i class='bx bxs-dashboard'></i>
+                    <span class="text">Tableau de bord</span>
+                </a>
+            </li>
+            <li>
+                <a href="DataUser.html">
+                    <i class='bx bxs-doughnut-chart'></i>
+                    <span class="text">Données</span>
+                </a>
+            </li>
+            <li>
+                <a href="ProjetsUser.html">
+                    <i class='bx bxs-shopping-bag-alt'></i>
+                    <span class="text">Projets</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="ClientsUser.html">
+                    <i class='bx bxs-message-dots'></i>
+                    <span class="text">Clients</span>
+                </a>
+            </li>
+
+        </ul>
+        <ul class="side-menu">
+            <li>
+                <a href="~/Account/ParametreUser">
+                    <i class='bx bxs-cog'></i>
+                    <span class="text">Paramètres</span>
+                </a>
+            </li>
+            @using (Html.BeginForm("Logout", "Account", FormMethod.Post, new { id = "logoutForm" }))
+            {
+                @Html.AntiForgeryToken()
+                <li>
+                    <a href="#" class="logout" id="logoutLink">
+                        <i class='bx bxs-log-out-circle'></i>
+                        <span class="text">Se déconnecter</span>
+                    </a>
+                </li>
+            }
+        </ul>
+    </section>
+    <!-- SIDEBAR -->
+    <!-- CONTENT -->
+    <section id="content">
+        <!-- NAVBAR -->
+        <nav>
+            <i class='bx bx-menu'></i>
+
+            <form action="#">
+                <div class="form-input">
+                    <input type="search" placeholder="Recherche...">
+                    <button type="submit" class="search-btn"><i class='bx bx-search'></i></button>
+                </div>
+            </form>
+            <input type="checkbox" id="switch-mode" hidden>
+            <label for="switch-mode" class="switch-mode"></label>
+            <!-- Nofification -->
+            <a href="#" class="profile">
+                <img src="~/Content/img/people.png">
+            </a>
+        </nav>
+        <!-- NAVBAR -->
+        <!-- MAIN -->
+        <main>
+            <div class="head-title">
+                <div class="left">
+                    <h1>Paramètres</h1>
+                    <ul class="breadcrumb">
+                        <li>
+                            <a href="#">Paramètres</a>
+                        </li>
+                        <li><i class='bx bx-chevron-right'></i></li>
+                        <li>
+                            <a class="active" href="#">Home</a>
+
+                        </li>
+                    </ul>
+                </div>
+
+
+
+
+            </div>
+
+
+            <div class="profile-container mt-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Mon Profil</h4>
+                    </div>
+
+                    <div class="card-body">
+
+                        @using (Html.BeginForm(null, null, FormMethod.Post, new { @class = "editUtilisateurForm" }))
+                        {
+
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="UserId" id="UserIdUpdateModel" value="@Model.UserId" />
+
+                            <!-- User Info Section -->
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-group">
+                                        @Html.LabelFor(m => m.Nom, new { @class = "form-label" })
+                                        @Html.TextBoxFor(m => m.Nom, new { @class = "form-control", id = "inputNomUpdateUtilisateur" })
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-group">
+                                        @Html.LabelFor(m => m.Prenom, new { @class = "form-label" })
+                                        @Html.TextBoxFor(m => m.Prenom, new { @class = "form-control", id = "inputPrenomUpdateUtilisateur" })
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Date of Birth and Profession -->
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-group">
+                                        @Html.LabelFor(m => m.DateNaissance, new { @class = "form-label" })
+                                        @Html.TextBoxFor(m => m.DateNaissance, "{0:yyyy-MM-dd}", new { @class = "form-control", @type = "date", id = "inputDateNaissanceUpdateUtilisateur" })
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <div class="form-group">
+                                        @Html.LabelFor(m => m.Proffession, new { @class = "form-label" })
+                                        @Html.TextBoxFor(m => m.Proffession, new { @class = "form-control", id = "inputProffessionUpdateUtilisateur" })
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Password Update Section -->
+                            <div class="password-update-section mt-4">
+
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <div class="form-group">
+                                            @Html.LabelFor(m => m.Email, new { @class = "form-label" })
+                                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", id = "inputEmailUpdateUtilisateur", @disabled = "disabled" })
+                                        </div>
+
+                                    </div>
+
+                                    <div class="col-md-3 mb-3">
+
+                                        <div class="form-group">
+                                            <label for="inputCurrentPasswordLabel" class="form-label">Mot de Passe:</label>
+                                            <input type="password" class="form-control" id="inputCurrentPassword" name="Password"
+                                                   value="xxxxxxxx" disabled
+                                                   data-toggle="tooltip" title="Contactez l'administrateur pour obtenir un nouveau mot de passe">
+
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 mt-4">
+                                        <div class="form-group mt-2">
+                                            <input type="hidden" id="testIddddd" value="@ViewBag.UserId" name="@ViewBag.UserName">
+                                            <button type="button" class="btn btn-outline-secondary" id="notifyAdminButton"
+                                                    data-toggle="tooltip" title="Contactez l'administrateur pour obtenir un nouveau mot de passe"
+                                                    data-user-id="@ViewBag.UserId" data-user-name="@ViewBag.UserName">
+                                                <i class="bx bxs-key"></i>
+                                            </button>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Buttons -->
+                            <div class="card-footer d-flex justify-content-end mt-4">
+                                <button type="button" class="btn btn-secondary me-2" data-dismiss="modal">Fermer</button>
+                                <button type="submit" class="btn btn-success" id="saveChangesBtn">Enregistrer</button>
+                            </div>
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+
+
+        </main>
+        <!-- MAIN -->
+    </section>
+    <!-- CONTENT -->
+
+
+
+
+</body>
+</html>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Content/Scripts/script.js"></script>
+
+    <script src="~/Content/Scripts/scriptIndexUser.js"></script>
+    <script src="~/Content/Scripts/scriptParametreUser.js"></script>
+    <script src="~/Content/Scripts/NotificationUserToAdmin.js"></script>
+    <script src="~/Content/Scripts/logOut.js"></script>
+
+
+}

@@ -1,0 +1,465 @@
+﻿@model CentralisationV0.Models.Entities.ParametreViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Boxicons -->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <!-- My CSS -->
+    <link rel="stylesheet" href="~/Content/styles/style.css">
+    <link rel="stylesheet" href="~/Content/styles/styleIndex.css">
+    <link rel="stylesheet" href="~/Content/styles/styleParametre.css">
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- Chart.js -->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <!-- My CSS -->
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+    <!-- Bootstrap JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.0/sweetalert.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+
+    <title>GEOMATIC</title>
+</head>
+
+
+<body>
+
+
+    <!-- SIDEBAR -->
+    <section id="sidebar">
+
+        <div class="logo-nav">
+            <a href="~/Account/Index" class="brand">
+                <img src="~/Content/img/logo-geomatic.png" style="width: 70%;" />
+            </a>
+        </div>
+
+        <ul class="side-menu top">
+            <li class="active">
+                <a href="~/Account/Index">
+                    <i class='bx bxs-dashboard'></i>
+                    <span class="text">Tableau de bord</span>
+                </a>
+            </li>
+            <li>
+                <a href="Data.html">
+                    <i class='bx bxs-doughnut-chart'></i>
+                    <span class="text">Données</span>
+                </a>
+            </li>
+            <li>
+                <a href="Projets.html">
+                    <i class='bx bxs-shopping-bag-alt'></i>
+                    <span class="text">Projets</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="Clients.html">
+                    <i class='bx bxs-message-dots'></i>
+                    <span class="text">Clients</span>
+                </a>
+            </li>
+
+        </ul>
+        <ul class="side-menu">
+            <li>
+                <a href="~/Account/Parametre">
+                    <i class='bx bxs-cog'></i>
+                    <span class="text">Paramètres</span>
+                </a>
+            </li>
+
+            @using (Html.BeginForm("Logout", "Account", FormMethod.Post, new { id = "logoutForm" }))
+            {
+                @Html.AntiForgeryToken()
+                <li>
+                    <a href="#" class="logout" id="logoutLink">
+                        <i class='bx bxs-log-out-circle'></i>
+                        <span class="text">Se déconnecter</span>
+                    </a>
+                </li>
+            }
+        </ul>
+    </section>
+    <!-- SIDEBAR -->
+    <!-- CONTENT -->
+    <section id="content">
+        <!-- NAVBAR -->
+        <nav>
+            <i class='bx bx-menu'></i>
+
+            <form action="#">
+                <div class="form-input">
+                    <input type="search" placeholder="Recherche...">
+                    <button type="submit" class="search-btn"><i class='bx bx-search'></i></button>
+                </div>
+            </form>
+            <input type="checkbox" id="switch-mode" hidden>
+            <label for="switch-mode" class="switch-mode"></label>
+            @Html.Partial("_NotificationUser")
+            <a href="#" class="profile">
+                <img src="~/Content/img/people.png">
+            </a>
+        </nav>
+        <!-- NAVBAR -->
+        <!-- MAIN -->
+        <main>
+            <div class="head-title">
+                <div class="left">
+                    <h1>Paramètres</h1>
+                    <ul class="breadcrumb">
+                        <li>
+                            <a href="#">Paramètres</a>
+                        </li>
+                        <li><i class='bx bx-chevron-right'></i></li>
+                        <li>
+                            <a class="active" href="#">Home</a>
+
+                        </li>
+                    </ul>
+                </div>
+                <span data-toggle="modal" data-target="#ModalAdding" class="btn-download addData" style="margin-top: 10px; margin-left: 450px;cursor: pointer">
+                    <i class='bx bx-plus-circle'></i>
+                    <span class="text">Ajouter Utilisateur</span>
+                </span>
+
+
+            </div>
+
+            <div class="table-data">
+                <div class="order">
+                    <div class="head">
+                        <h4>Paramètres</h4>
+
+                    </div>
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title text-uppercase mb-0">Gérer les Utilisateurs</h5>
+                                    </div>
+                                    <div class="table-responsive">
+
+                                        <table class="table no-wrap user-table mb-0">
+                                            <thead>
+                                                <tr>
+
+                                                    <th scope="col" style="text-align: center;" class="border-0 text-uppercase font-medium pl-4 ">#</th>
+                                                    <th scope="col" style="text-align: center;" class="border-0 text-uppercase font-medium ">Nom</th>
+                                                    <th scope="col" style="text-align: center;" class="border-0 text-uppercase font-medium ">Profession</th>
+                                                    <th scope="col" style="text-align: center;" class="border-0 text-uppercase font-medium ">Email</th>
+                                                    <th scope="col" style="text-align: center;" class="border-0 text-uppercase font-medium ">Date d'Ajout</th>
+                                                    <th scope="col" style="text-align: center;" class="border-0 text-uppercase font-medium ">Role</th>
+                                                    <th scope="col" style="text-align: center;" class="border-0 text-uppercase font-medium ">Gérer</th>
+
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+
+                                                @foreach (var user in Model.Users)
+                                                {
+                                                <tr>
+                                                    <td class="pl-4">#</td>
+
+                                                    <td>
+                                                        <h5 class="font-medium mb-0" style="text-align: center;">@user.Nom @user.Prenom</h5>
+                                                    </td>
+                                                    <td style="text-align: center;">
+                                                        <span class="text-muted">@user.Proffession</span>
+                                                    </td>
+                                                    <td style="text-align: center;">
+                                                        <span class="text-muted">@user.Email</span><br>
+                                                    </td>
+                                                    <td style="text-align: center;">
+                                                        <span class="text-muted">@user.DateNaissance</span><br>
+                                                    </td>
+                                                    <td style="text-align: center;">
+                                                        <select class="form-control role-select" id="exampleFormControlRole1">
+                                                            @* Loop through the user's specific roles and set the selected option *@
+                                                            @foreach (var userWithRoles in Model.UsersWithRoles)
+                                                            {
+                                                                if (userWithRoles.User.Id == user.Id)
+                                                                {
+                                                                    foreach (var role in userWithRoles.Roles)
+                                                                    {
+                                                                        <option selected>@role</option>
+                                                                    }
+                                                                }
+                                                            }
+                                                        </select>
+                                                    </td>
+                                                    <td style="display:none">
+                                                        <h5 class="font-medium mb-0" style="text-align: center;">@user.Id</h5>
+                                                    </td>
+                                                    <td style="text-align: center;">
+                                                        <div style="display: flex; align-items: center; justify-content: center; padding-left: 20px;">
+                                                            <div class="form-check form-switch" style="margin-top: -15px;">
+                                                                <input class="form-check-input" style="font-size: 24px;" type="checkbox" role="switch" id="flexSwitchCheckChecked"
+                                                                       @if (user.isActivated) { <text> checked</text>; }
+                                                                       onchange="toggleAccountStatus('@user.Id', this.checked)" />
+                                                            </div>
+                                                            <span class="status completed forgot-button" data-toggle="modal" data-target="#forgotPasswordModal" style="margin-right: 10px;">
+                                                                <i class='bx bxs-key' style="font-size: 14px;"></i>
+                                                            </span>
+                                                            <span class="status completed edit-button" style="background-color: green; margin-right: 10px;" data-toggle="modal" data-target="#UpdateUtilisateurModal" onclick="populateUpdateModal(this)">
+                                                                <i class='bx bx-edit' style="font-size: 14px;"></i>
+                                                            </span>
+                                                            <span class="status completed show-button" style="background-color: rgb(224, 159, 125);" data-toggle="modal" data-target="#ModalDetailUtilisateur">
+                                                                <i class='bx bx-show' style="font-size: 14px;"></i>
+                                                            </span>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                }
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+
+
+
+
+
+            </div>
+        </main>
+        <!-- MAIN -->
+    </section>
+    <!-- CONTENT -->
+
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal"></button>
+    </div>
+
+    <div class="modal fade" id="ModalAdding" tabindex="-1" role="dialog" aria-labelledby="ModalAddEntryLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="ModalAddEntryLabel">Ajouter Utilisateur</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    @using (Html.BeginForm("Create", "Account", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-group row">
+                            <div class="col">
+                                @Html.LabelFor(m => m.RegisterViewModel.Nom)
+                                @Html.TextBoxFor(m => m.RegisterViewModel.Nom, new { @class = "form-control", @id = "inputNom" })
+
+                                @Html.ValidationMessageFor(m => m.RegisterViewModel.Nom, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="col">
+                                @Html.LabelFor(m => m.RegisterViewModel.Proffession)
+                                @Html.TextBoxFor(m => m.RegisterViewModel.Proffession, new { @class = "form-control", @id = "inputProfession" })
+                                @Html.ValidationMessageFor(m => m.RegisterViewModel.Proffession, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col">
+                                @Html.LabelFor(m => m.RegisterViewModel.Email)
+                                @Html.TextBoxFor(m => m.RegisterViewModel.Email, new { @class = "form-control", @id = "inputEmail" })
+                                @Html.ValidationMessageFor(m => m.RegisterViewModel.Email, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="col">
+                                @Html.LabelFor(m => m.RegisterViewModel.DateNaissance)
+                                @Html.TextBoxFor(m => m.RegisterViewModel.DateNaissance, new { @class = "form-control", @type = "date", @id = "inputDate" })
+                                @Html.ValidationMessageFor(m => m.RegisterViewModel.DateNaissance, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col">
+                                @Html.LabelFor(m => m.RegisterViewModel.Address)
+                                @Html.TextBoxFor(m => m.RegisterViewModel.Address, new { @class = "form-control", @id = "inputAddress" })
+                                @Html.ValidationMessageFor(m => m.RegisterViewModel.Address, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="col">
+                                @Html.LabelFor(m => m.RegisterViewModel.Prenom)
+                                @Html.TextBoxFor(m => m.RegisterViewModel.Prenom, new { @class = "form-control", @id = "inputPrenom" })
+                                @Html.ValidationMessageFor(m => m.RegisterViewModel.Prenom, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-md-6">
+                                @Html.LabelFor(m => m.RegisterViewModel.Password)
+                                @Html.PasswordFor(m => m.RegisterViewModel.Password, new { @class = "form-control", @id = "inputMotdepasse" })
+                                @Html.ValidationMessageFor(m => m.RegisterViewModel.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                            <button type="submit" class="btn btn-primary">Ajouter</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="ModalDetailUtilisateur" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="ModalDetailLabel">Détails Utilisateur</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="detailNom">Nom:</label>
+                        <p id="labelNom" class="form-control-plaintext"></p>
+                    </div>
+                    <div class="form-group">
+                        <label for="detailPrenom">Nom:</label>
+                        <p id="labelPrenom" class="form-control-plaintext"></p>
+                    </div>
+                    <div class="form-group">
+                        <label for="detailProfession">Profession:</label>
+                        <p id="labelProfession" class="form-control-plaintext"></p>
+                    </div>
+                    <div class="form-group">
+                        <label for="detailEmail">Email:</label>
+                        <p id="labelEmail" class="form-control-plaintext"></p>
+                    </div>
+                    @*<div class="form-group">
+                            <label for="detailDate">Date d'Ajout:</label>
+                            <p id="labelDateAjout" class="form-control-plaintext"></p>
+                        </div>*@
+                    <div class="form-group">
+                        <label for="detailRole">Rôle:</label>
+                        <p id="labelRole" class="form-control-plaintext"></p>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @Html.Partial("_ForgotPassword")
+
+    <div class="modal fade" id="UpdateUtilisateurModal" tabindex="-1" role="dialog" aria-labelledby="UpdateUtilisateurModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            @using (Html.BeginForm(null, null, FormMethod.Post, new { @class = "editForm" }))
+            {
+@Html.AntiForgeryToken()
+               
+
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="UpdateUtilisateurModalLabel">Update Utilisateur</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <input type="hidden" name="UserId" id="UserIdUpdateModel" value="" />
+                                        <div class="form-group">
+                                            <label for="inputNomUpdate">Nom Complet</label>
+                                            <input type="text" class="form-control" id="inputNomUpdate" value="">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="inputProfessionUpdate">Profession</label>
+                                            <input type="text" class="form-control" id="inputProfessionUpdate" value="">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="inputEmailUpdate">Email</label>
+                                            <input type="email" class="form-control" id="inputEmailUpdate" value="">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="inputDateAjoutUpdate">Date de Naissance</label>
+                                            <input type="date" class="form-control" id="inputDateAjoutUpdate" name="DateNaissance" value="" />
+                                        </div>
+
+                                        <div class="form-group">
+                                            <label for="inputRoleUpdate">Role</label>
+                                            <div>
+                                                <div class="form-check">
+                                                    <input type="radio" class="form-check-input" id="inputRoleAdmin" name="Role" value="Admin" />
+                                                    <label class="form-check-label" for="inputRoleAdmin">Admin</label>
+                                                </div>
+                                                <div class="form-check">
+                                                    <input type="radio" class="form-check-input" id="inputRoleUser" name="Role" value="User" />
+                                                    <label class="form-check-label" for="inputRoleUser">User</label>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="submit" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </div>}
+        </div>
+    </div>
+
+
+
+
+</body>
+</html>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Content/Scripts/script.js"></script>
+    <script src="~/Content/Scripts/scriptConnexion.js"></script>
+    <script src="~/Content/Scripts/scriptIndex.js"></script>
+    <script src="~/Content/Scripts/scriptParamètres.js"></script>
+    <script src="~/Content/Scripts/logOut.js"></script>
+    <script src="~/Content/Scripts/ForgotPassword.js"></script>
+    <script src="~/Content/Scripts/ReceiveNotifAdmin.js"></script>
+    <script src="~/Content/Scripts/NotificationUserToAdmin.js"></script>
+}

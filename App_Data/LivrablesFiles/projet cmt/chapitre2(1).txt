@@ -1,0 +1,9 @@
+chapitre3:
+1.Typologie des entites ponctuelle:
+simple compose comlexe ,reel et abstraite fixe et mpbile
+
+
+les 3 indicateurs:moyen est barycentre
+ecart est equivalent de distance standard
+elipse de deviation est l’équivalent du
+coefficient de l’asymétrie (anisotropie )

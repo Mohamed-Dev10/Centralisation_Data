@@ -1,0 +1,1365 @@
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\x86\e_sqlite3.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\x64\e_sqlite3.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\CentralisationV0.dll.config
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\CentralisationV0.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\CentralisationV0.pdb
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\csc.exe
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\csc.exe.config
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\csc.rsp
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\csi.exe
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\csi.exe.config
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\csi.rsp
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.AppContext.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Console.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Net.Http.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\vbc.exe
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\vbc.exe.config
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\vbc.rsp
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Antlr3.Runtime.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Carbon.Data.Protection.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Carbon.Packaging.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Carbon.Storage.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Carbon.VersionControl.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Carbon.Versioning.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\EntityFramework.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\GitHub.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Npgsql.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Owin.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SendGrid.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLite-net.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLiteNetExtensions.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_green.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLitePCLRaw.core.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\StarkbankEcdsa.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Buffers.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Memory.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Numerics.Vectors.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Text.Json.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.ValueTuple.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.Helpers.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.Mvc.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.Optimization.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.Razor.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.WebPages.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\WebGrease.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\EntityFramework.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Npgsql.pdb
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Npgsql.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SendGrid.pdb
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SendGrid.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLite-net.pdb
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLite-net.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\SQLiteNetExtensions.pdb
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Buffers.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Memory.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Numerics.Vectors.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Text.Json.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.ValueTuple.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.Helpers.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.Mvc.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.Optimization.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.Razor.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.WebPages.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Antlr3.Runtime.pdb
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\fr\System.Web.Razor.resources.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ThemAndIndustry.resources
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ModifUser.resources
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddPasswordResetCodeToApplicationUser.resources
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddColumnBooleanIsReset.resources
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddIsActivatedColumnToUser.resources
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.NouvelleMigration.resources
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataModel.resources
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateDataModelWithTheme.resources
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CopyComplete
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.dll
+C:\Users\hp\source\repos\Centralisation_Env_Dev\obj\Release\CentralisationV0.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\x86\e_sqlite3.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\x64\e_sqlite3.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\CentralisationV0.dll.config
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\CentralisationV0.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\CentralisationV0.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\csc.exe
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\csc.exe.config
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\csc.rsp
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\csi.exe
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\csi.exe.config
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\csi.rsp
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.AppContext.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Collections.Immutable.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Console.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Globalization.Calendars.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Net.Http.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Net.Sockets.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Reflection.Metadata.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.ValueTuple.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\vbc.exe
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\vbc.exe.config
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\vbc.rsp
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe.config
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Antlr3.Runtime.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Carbon.Data.Protection.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Carbon.Packaging.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Carbon.Storage.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Carbon.VersionControl.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Carbon.Versioning.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Dropbox.Api.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\EntityFramework.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\GitHub.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Auth.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Core.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Web.Infrastructure.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Newtonsoft.Json.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Npgsql.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Owin.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SendGrid.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Serilog.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Serilog.Sinks.Console.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLite-net.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLiteNetExtensions.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_green.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_v2.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLitePCLRaw.core.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\StarkbankEcdsa.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Buffers.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.CodeDom.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Memory.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Numerics.Vectors.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Text.Json.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Threading.Channels.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.ValueTuple.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.Helpers.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.Mvc.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.Optimization.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.Razor.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.WebPages.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\WebGrease.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Dropbox.Api.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\EntityFramework.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Auth.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Auth.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Core.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Core.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Newtonsoft.Json.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Npgsql.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Npgsql.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SendGrid.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SendGrid.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Serilog.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Serilog.Sinks.Console.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLite-net.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLite-net.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\SQLiteNetExtensions.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Buffers.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.CodeDom.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Memory.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Numerics.Vectors.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Text.Json.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Threading.Channels.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.ValueTuple.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.Helpers.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.Mvc.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.Optimization.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.Razor.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.WebPages.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Antlr3.Runtime.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\fr\System.Web.Helpers.resources.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\fr\System.Web.Mvc.resources.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\fr\System.Web.Optimization.resources.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\fr\System.Web.Razor.resources.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.resources.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ThemAndIndustry.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ModifUser.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddPasswordResetCodeToApplicationUser.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddColumnBooleanIsReset.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddIsActivatedColumnToUser.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.NouvelleMigration.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataModel.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateDataModelWithTheme.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.MigrationDataTables.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.MigrationDataCollab.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AttributStatusCollaboration.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.TableDatabaseWithData.resources
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.GenerateResource.cache
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CoreCompileInputs.cache
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CopyComplete
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.dll
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.pdb
+D:\Centralisation_Env_Dev\Centralisation_Env_Dev\obj\Release\CentralisationV0.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\x86\e_sqlite3.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\x64\e_sqlite3.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\CentralisationV0.dll.config
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\CentralisationV0.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\CentralisationV0.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\csc.exe
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\csc.exe.config
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\csc.rsp
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\csi.exe
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\csi.exe.config
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\csi.rsp
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Console.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Net.Http.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\vbc.exe
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\vbc.exe.config
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\vbc.rsp
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Antlr3.Runtime.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Carbon.Data.Protection.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Carbon.Packaging.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Carbon.Storage.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Carbon.VersionControl.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Carbon.Versioning.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Dropbox.Api.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\EntityFramework.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\GitHub.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Auth.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Core.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Npgsql.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Owin.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SendGrid.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Serilog.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Serilog.Sinks.Console.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLite-net.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLiteNetExtensions.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_green.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLitePCLRaw.core.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\StarkbankEcdsa.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Buffers.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.CodeDom.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Memory.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Numerics.Vectors.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Text.Json.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Threading.Channels.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.ValueTuple.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.Helpers.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.Mvc.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.Optimization.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.Razor.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.WebPages.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\WebGrease.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Dropbox.Api.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\EntityFramework.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Auth.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Auth.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Core.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Core.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Npgsql.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Npgsql.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SendGrid.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SendGrid.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Serilog.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Serilog.Sinks.Console.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLite-net.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLite-net.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\SQLiteNetExtensions.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Buffers.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.CodeDom.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Memory.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Numerics.Vectors.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Text.Json.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Threading.Channels.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.ValueTuple.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.Helpers.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.Mvc.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.Optimization.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.Razor.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.WebPages.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\fr\System.Web.Razor.resources.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ThemAndIndustry.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ModifUser.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddPasswordResetCodeToApplicationUser.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddColumnBooleanIsReset.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddIsActivatedColumnToUser.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.NouvelleMigration.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataModel.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateDataModelWithTheme.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.MigrationDataTables.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.MigrationDataCollab.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AttributStatusCollaboration.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.TableDatabaseWithData.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataBaseForeignKeyToData.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.InitializeCollections.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.FixCollaborationDatasTable.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateCollaborationRelationships.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.FixCoordinateSystemRelation.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddLivrablesPaths.resources
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CopyComplete
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.dll
+C:\Users\hp\Documents\Centrealisation\Centralisation_Env_Dev\obj\Release\CentralisationV0.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\x86\e_sqlite3.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\x64\e_sqlite3.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\CentralisationV0.dll.config
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\CentralisationV0.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\CentralisationV0.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\csc.exe
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\csc.exe.config
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\csc.rsp
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\csi.exe
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\csi.exe.config
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\csi.rsp
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Console.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Net.Http.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\vbc.exe
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\vbc.exe.config
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\vbc.rsp
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Antlr3.Runtime.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Carbon.Data.Protection.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Carbon.Packaging.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Carbon.Storage.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Carbon.VersionControl.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Carbon.Versioning.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Dropbox.Api.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\EntityFramework.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\GitHub.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Auth.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Core.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Npgsql.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Owin.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SendGrid.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Serilog.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Serilog.Sinks.Console.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLite-net.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLiteNetExtensions.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_green.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLitePCLRaw.core.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\StarkbankEcdsa.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Buffers.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.CodeDom.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Collections.Immutable.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Memory.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Numerics.Vectors.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Text.Json.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Threading.Channels.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.ValueTuple.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.Helpers.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.Mvc.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.Optimization.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.Razor.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.WebPages.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\WebGrease.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Dropbox.Api.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\EntityFramework.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Auth.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Auth.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Core.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Core.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Npgsql.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SendGrid.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SendGrid.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Serilog.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\Serilog.Sinks.Console.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLite-net.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLite-net.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\SQLiteNetExtensions.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Buffers.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.CodeDom.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Collections.Immutable.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Memory.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Numerics.Vectors.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Text.Json.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Threading.Channels.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.ValueTuple.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.Helpers.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.Mvc.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.Optimization.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.Razor.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.WebPages.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\fr\System.Web.Razor.resources.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ThemAndIndustry.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ModifUser.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddPasswordResetCodeToApplicationUser.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddColumnBooleanIsReset.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddIsActivatedColumnToUser.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.NouvelleMigration.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataModel.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateDataModelWithTheme.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.MigrationDataTables.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.MigrationDataCollab.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AttributStatusCollaboration.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.TableDatabaseWithData.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataBaseForeignKeyToData.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.InitializeCollections.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.FixCollaborationDatasTable.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateCollaborationRelationships.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.FixCoordinateSystemRelation.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddLivrablesPaths.resources
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CopyComplete
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.dll
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.pdb
+C:\Users\hp\Documents\Geomatic versions\version marche2\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddClientContactClientArcGisRelations.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\x86\e_sqlite3.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\x64\e_sqlite3.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\CentralisationV0.dll.config
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\CentralisationV0.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\CentralisationV0.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\csc.exe
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\csc.exe.config
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\csc.rsp
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\csi.exe
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\csi.exe.config
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\csi.rsp
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Console.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Net.Http.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\vbc.exe
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\vbc.exe.config
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\vbc.rsp
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Antlr3.Runtime.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Carbon.Data.Protection.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Carbon.Packaging.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Carbon.Storage.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Carbon.VersionControl.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Carbon.Versioning.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Dropbox.Api.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\EntityFramework.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\GitHub.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Auth.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Core.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Npgsql.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Owin.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SendGrid.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Serilog.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Serilog.Sinks.Console.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLite-net.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLiteNetExtensions.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_green.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLitePCLRaw.core.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\StarkbankEcdsa.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Buffers.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.CodeDom.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Collections.Immutable.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Memory.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Numerics.Vectors.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Text.Json.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Threading.Channels.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.ValueTuple.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.Helpers.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.Mvc.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.Optimization.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.Razor.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.WebPages.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\WebGrease.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Dropbox.Api.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\EntityFramework.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\EntityFramework6.Npgsql.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Auth.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Auth.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Core.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Core.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Google.Apis.Drive.v3.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Npgsql.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SendGrid.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SendGrid.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Serilog.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\Serilog.Sinks.Console.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLite-net.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLite-net.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\SQLiteNetExtensions.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Buffers.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.CodeDom.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Collections.Immutable.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Memory.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Numerics.Vectors.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Text.Encodings.Web.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Text.Json.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Threading.Channels.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.ValueTuple.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.Helpers.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.Mvc.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.Optimization.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.Razor.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.WebPages.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\fr\System.Web.Razor.resources.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ThemAndIndustry.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.ModifUser.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddPasswordResetCodeToApplicationUser.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddColumnBooleanIsReset.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddIsActivatedColumnToUser.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.NouvelleMigration.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataModel.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateDataModelWithTheme.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.MigrationDataTables.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AttributStatusCollaboration.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.TableDatabaseWithData.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataBaseForeignKeyToData.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.InitializeCollections.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.FixCollaborationDatasTable.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateCollaborationRelationships.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.FixCoordinateSystemRelation.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddLivrablesPaths.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddClientContactClientArcGisRelations.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.AddDataDataBaseRelation.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.MakeIdClientNullable.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.UpdateContactClientIdClient.resources
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.csproj.CopyComplete
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.dll
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.pdb
+C:\Users\hp\Documents\Centralisation Test\Centralisation_Env_Dev\obj\Release\CentralisationV0.Migrations.IncreaseUrlDataLength.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\x86\e_sqlite3.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\x64\e_sqlite3.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\CentralisationV0.dll.config
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\CentralisationV0.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\CentralisationV0.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\csc.exe
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\csc.exe.config
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\csc.rsp
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\csi.exe
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\csi.exe.config
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\csi.rsp
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Console.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Net.Http.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\vbc.exe
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\vbc.exe.config
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\vbc.rsp
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Antlr3.Runtime.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Carbon.Data.Protection.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Carbon.Packaging.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Carbon.Storage.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Carbon.VersionControl.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Carbon.Versioning.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Dropbox.Api.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\EntityFramework.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\EntityFramework6.Npgsql.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\GitHub.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Auth.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Core.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Drive.v3.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Newtonsoft.Json.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Npgsql.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Owin.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SendGrid.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Serilog.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Serilog.Sinks.Console.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLite-net.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLiteNetExtensions.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLitePCLRaw.batteries_green.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLitePCLRaw.core.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\StarkbankEcdsa.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Buffers.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.CodeDom.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Collections.Immutable.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Memory.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Numerics.Vectors.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Text.Encodings.Web.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Text.Json.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Threading.Channels.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.ValueTuple.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.Helpers.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.Mvc.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.Optimization.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.Razor.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.WebPages.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\WebGrease.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Antlr3.Runtime.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Dropbox.Api.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\EntityFramework.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\EntityFramework6.Npgsql.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Auth.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Auth.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Core.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Core.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Drive.v3.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Google.Apis.Drive.v3.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Newtonsoft.Json.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Npgsql.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SendGrid.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SendGrid.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Serilog.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\Serilog.Sinks.Console.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLite-net.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLite-net.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\SQLiteNetExtensions.pdb
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Buffers.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.CodeDom.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Collections.Immutable.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Memory.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Numerics.Vectors.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Text.Encodings.Web.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Text.Json.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Threading.Channels.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.ValueTuple.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.Helpers.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.Mvc.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.Optimization.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.Razor.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.WebPages.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\fr\System.Web.Razor.resources.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.ThemAndIndustry.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.ModifUser.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddPasswordResetCodeToApplicationUser.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddColumnBooleanIsReset.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddIsActivatedColumnToUser.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.NouvelleMigration.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddDataModel.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.UpdateDataModelWithTheme.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.MigrationDataTables.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AttributStatusCollaboration.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.TableDatabaseWithData.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddDataBaseForeignKeyToData.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.InitializeCollections.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.FixCollaborationDatasTable.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.UpdateCollaborationRelationships.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.FixCoordinateSystemRelation.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddLivrablesPaths.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddClientContactClientArcGisRelations.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddDataDataBaseRelation.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.MakeIdClientNullable.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.UpdateContactClientIdClient.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.IncreaseUrlDataLength.resources
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.csproj.GenerateResource.cache
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.csproj.CopyComplete
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.dll
+C:\Users\hp\Documents\CentralisationVD\CentralisationVersionD\obj\Release\CentralisationV0.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\x86\e_sqlite3.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\x64\e_sqlite3.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\CentralisationV0.dll.config
+D:\CentralisationVersionD\CentralisationVersionD\bin\CentralisationV0.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\CentralisationV0.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\csc.exe
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\csc.exe.config
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\csc.rsp
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\csi.exe
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\csi.exe.config
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\csi.rsp
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.AppContext.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Collections.Immutable.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Console.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Globalization.Calendars.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.IO.Compression.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.IO.FileSystem.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Net.Http.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Net.Sockets.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Reflection.Metadata.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.ValueTuple.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Xml.XPath.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\vbc.exe
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\vbc.exe.config
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\vbc.rsp
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\VBCSCompiler.exe
+D:\CentralisationVersionD\CentralisationVersionD\bin\roslyn\VBCSCompiler.exe.config
+D:\CentralisationVersionD\CentralisationVersionD\bin\Antlr3.Runtime.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Carbon.Data.Protection.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Carbon.Packaging.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Carbon.Storage.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Carbon.VersionControl.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Carbon.Versioning.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Dropbox.Api.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\EntityFramework.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\EntityFramework.SqlServer.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\EntityFramework6.Npgsql.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\GitHub.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Auth.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Core.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Drive.v3.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Bcl.HashCode.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.Security.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Web.Infrastructure.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Newtonsoft.Json.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Npgsql.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Owin.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\SendGrid.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Serilog.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Serilog.Sinks.Console.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLite-net.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLiteNetExtensions.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLitePCLRaw.batteries_green.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLitePCLRaw.batteries_v2.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLitePCLRaw.core.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\StarkbankEcdsa.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Buffers.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.CodeDom.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Collections.Immutable.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Memory.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Numerics.Vectors.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Text.Encodings.Web.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Text.Json.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Threading.Channels.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Threading.Tasks.Extensions.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.ValueTuple.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.Helpers.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.Mvc.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.Optimization.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.Razor.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.WebPages.Deployment.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.WebPages.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.WebPages.Razor.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\WebGrease.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\Antlr3.Runtime.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\Dropbox.Api.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\EntityFramework.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\EntityFramework.SqlServer.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\EntityFramework6.Npgsql.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Auth.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Auth.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Core.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Core.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Drive.v3.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\Google.Apis.Drive.v3.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Bcl.HashCode.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.Security.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Newtonsoft.Json.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Npgsql.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\SendGrid.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\SendGrid.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Serilog.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\Serilog.Sinks.Console.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLite-net.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLite-net.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\SQLiteNetExtensions.pdb
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Buffers.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.CodeDom.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Collections.Immutable.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Memory.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Numerics.Vectors.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Text.Encodings.Web.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Text.Json.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Threading.Channels.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Threading.Tasks.Extensions.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.ValueTuple.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.Helpers.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.Mvc.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.Optimization.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.Razor.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.WebPages.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.WebPages.Deployment.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\System.Web.WebPages.Razor.xml
+D:\CentralisationVersionD\CentralisationVersionD\bin\fr\System.Web.Helpers.resources.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\fr\System.Web.Mvc.resources.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\fr\System.Web.Optimization.resources.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\fr\System.Web.Razor.resources.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\fr\System.Web.WebPages.resources.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\CentralisationVersionD\CentralisationVersionD\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.csprojAssemblyReference.cache
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.ThemAndIndustry.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.ModifUser.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddPasswordResetCodeToApplicationUser.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddColumnBooleanIsReset.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddIsActivatedColumnToUser.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.NouvelleMigration.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddDataModel.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.UpdateDataModelWithTheme.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.MigrationDataTables.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AttributStatusCollaboration.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.TableDatabaseWithData.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddDataBaseForeignKeyToData.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.InitializeCollections.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.FixCollaborationDatasTable.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.UpdateCollaborationRelationships.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.FixCoordinateSystemRelation.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddLivrablesPaths.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddClientContactClientArcGisRelations.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.AddDataDataBaseRelation.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.MakeIdClientNullable.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.UpdateContactClientIdClient.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.Migrations.IncreaseUrlDataLength.resources
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.csproj.GenerateResource.cache
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.csproj.CoreCompileInputs.cache
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.csproj.CopyComplete
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.dll
+D:\CentralisationVersionD\CentralisationVersionD\obj\Release\CentralisationV0.pdb

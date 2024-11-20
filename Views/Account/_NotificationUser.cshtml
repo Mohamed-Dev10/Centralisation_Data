@@ -1,0 +1,21 @@
+﻿@model CentralisationV0.Models.Entities.ParametreViewModel
+
+<a  class="notification" id="notificationBell">
+    <i class='bx bxs-bell'></i>
+    <span id="notificationCount" class="num">@Model.Notifications.Count</span>
+</a>
+<div id="notificationDropdown" class="notification-dropdown" style="display: none;height: 350px;overflow: scroll">
+    @foreach (var notification in Model.Notifications)
+    {
+        <div class="notification-item">
+
+            <div class="notification-header">
+                @foreach (var userName in notification.UserNames)
+                {
+                    <span class="username">@userName</span>}
+
+            </div>
+            <p class="message">@notification.Message</p>
+            <span class="date">@notification.CreatedDate</span>
+        </div>}
+</div>
