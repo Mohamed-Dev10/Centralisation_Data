@@ -1,4 +1,14 @@
-﻿<h3>dans l'image ci-après nous avons une page d'acceuil après une authentification </h3>
+﻿<h3>Cette image montre le schéma des privilèges d'un administrateur dans l'application. Elle illustre les différentes actions qu'un administrateur peut effectuer, comme l'activation et la désactivation des comptes utilisateurs, la réinitialisation des mots de passe, la modification des informations des utilisateurs, et l'ajout de nouveaux utilisateurs. Le schéma met en évidence les rôles de l'admin et la gestion des utilisateurs, avec des flèches qui montrent les interactions possibles à chaque étape du processus. </h3>
+
+<img src="Captures/little-shema.webp" />
+ -----------------------------------------------------
+
+ ﻿<h3>Cette image illustre les fonctionnalités d'accès disponibles à la fois pour l'administrateur et les utilisateurs. Elle présente les actions réservées aux administrateurs, comme la gestion des utilisateurs et des paramètres de sécurité. Les utilisateurs, quant à eux, peuvent modifier leurs informations personnelles, gérer leurs projets, ajouter des données et interagir avec des fichiers, mais ne peuvent pas modifier les informations des autres utilisateurs. Le schéma met en évidence les rôles et les privilèges d'accès, avec des distinctions claires entre ce que chaque type d'utilisateur peut faire </h3>
+
+<img src="Captures/big-shema.webp" />
+
+
+ <h3>dans l'image ci-après nous avons une page d'acceuil après une authentification </h3>
 
 <img src="Captures/home page.PNG" />
 ﻿<h3>pour un compte Admin qui a des privilèges :  </h3>
